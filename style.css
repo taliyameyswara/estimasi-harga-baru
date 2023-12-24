@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&family=Sarpanch&display=swap");
+* {
+  font-family: "Poppins", sans-serif !important ;
+}
+
+.title {
+  color: #f8fafc;
+  text-align: center;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.eq {
+  text-align: center;
+  font-size: 20px;
+  background-color: #fcd34d;
+  color: #0f172a;
+  border-radius: 10px;
+  padding: 20px;
+  width: fit-content;
+  font-weight: 700;
+  margin: auto;
+  margin-bottom: 10px;
+}
+
+.predict {
+  text-align: center;
+  font-size: 20px;
+  background-color: #ef4444;
+  color: #fff;
+  border-radius: 10px;
+  padding: 10px 25px 10px 25px;
+  width: fit-content;
+  font-weight: 700;
+  /* margin: auto; */
+  margin-bottom: 10px;
+}
+
+.cr {
+  margin-top: 40px;
+  text-align: center;
+  color: #f8fafc;
+}
