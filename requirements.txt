@@ -1,9 +1,7 @@
-geemap
-geopandas
-jupyter-server-proxy
-keplergl
-leafmap
-localtileserver
-nbserverproxy
+numpy
+pandas
+scikit-learn
+streamlit==1.15.0
+matplotlib==3.5.2
 streamlit
 streamlit-option-menu
