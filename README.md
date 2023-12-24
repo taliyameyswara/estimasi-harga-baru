@@ -17,4 +17,6 @@ Aplikasi ini menggunakan model Regresi Linier Berganda yang memiliki akurasi seb
   ```streamlit run estimasi_harga.py```
 
 > [!NOTE]  
-> Pastikan sudah mensetup python environment untuk menjalankan
+> Pastikan sudah setup python environment untuk menjalankan project
+
+Thanks💅
