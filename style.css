@@ -41,3 +41,14 @@
   text-align: center;
   color: #f8fafc;
 }
+
+.conc {
+  background-color: #f8fafc;
+  color: #0f172a;
+  border-radius: 10px;
+  padding: 20px;
+  width: fit-content;
+  font-weight: 700;
+  margin: auto;
+  margin-bottom: 10px;
+}
